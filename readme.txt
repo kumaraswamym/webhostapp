@@ -1,1 +1,1 @@
-this is a webhostapp repo
+this is a webhostapp repository
